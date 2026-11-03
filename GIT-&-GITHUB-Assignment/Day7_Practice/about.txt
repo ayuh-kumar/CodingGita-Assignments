@@ -1,3 +1,0 @@
-Name- Ayush Kumar
-
-Git init - It is used to make a repo using local folder by using intialisation.
